@@ -1,8 +1,10 @@
 ## Hi, world 👋
 ## Eu sou o Ryan
 ##
+<div style="display: inline_block"><br>
+   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 
 <!--
 **ryallmeida/ryallmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
