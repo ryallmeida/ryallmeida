@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou Ryan 👋</h1>
-  <p>💻 Ciência| 🔍 Pesquisa em Ciência Política | 📊 Análise de Dados</p>
+  <p>💻 Ciência Política | 🔍 Estatística | 📊 Análise de Dados</p>
 
   <p>Trabalho com <strong>R</strong>, <strong>Python</strong>, e <strong>Ciência de Dados</strong> para investigar políticas públicas e desigualdades sociais.</p>
 
