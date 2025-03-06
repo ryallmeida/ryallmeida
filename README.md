@@ -6,8 +6,8 @@
 
   <div>
     <a href="https://github.com/ryallmeida">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6&theme=dracula"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ryallmeida&show_icons=true&theme=dark"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryallmeida&layout=compact&langs_count=6&theme=dark"/>
     </a>
   </div>
 
@@ -26,9 +26,8 @@
   <a href="ryallmeida@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
 
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <div align="center">
+    <img src="https://github.com/ryallmeida/ryallmeida/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  </div>
 </div>
-
