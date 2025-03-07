@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou Ryan 👋</h1>
-  <p>💻 Ciência Política | 🔍 Estatística | 📊 Análise de Dados</p>
+  <p>💻 Ciência| 🔍 Pesquisa em Ciência Política | 📊 Análise de Dados</p>
 
   <p>Trabalho com <strong>R</strong>, <strong>Python</strong>, e <strong>Ciência de Dados</strong> para investigar políticas públicas e desigualdades sociais.</p>
 
@@ -28,6 +28,6 @@
   </a>
 
   <div align="center">
-    <img src="https://github.com/ryallmeida/ryallmeida/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=500&color=00FF00&width=435&lines=Bem-vindo+ao+meu+perfil!;Ci%C3%AAncia+Pol%C3%ADtica+%7C+An%C3%A1lise+de+Dados;Explorando+o+mundo+dos+dados!" alt="Typing Animation" />
   </div>
 </div>
