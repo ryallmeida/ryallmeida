@@ -37,7 +37,8 @@
 </div>
 >. Gosto de explorar como os dados podem revelar padrões sociais e auxiliar na formulação de políticas mais inclusivas.</p>
 
-  <h3>🌐 Conecte-se comigo</h3>
+   <div align="center">
+     <h3>🌐 Conecte-se comigo</h3>
   <a href="https://www.linkedin.com/in/ryallmeida/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
