@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">Olá, mundo. Eu sou Ryan 👾</h1>
-  <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;">💻 Ciência | 🔍 Pesquisa em Ciência Política | 📊 Análise de Dados</p>
+  <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;">💻 Ciência Política | 🔍 Estatística | 📊 Análise de Dados</p>
 
   <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;">Explorando dados para revelar padrões ocultos na sociedade.</p>
 
@@ -17,7 +17,7 @@
   </div>
 
   <h3 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">💬 Sobre mim</h3>
-  <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;">Atualmente pesquisando <strong>biopolítica e políticas públicas de saúde</strong>. Busco transformar dados em conhecimento para analisar desigualdades sociais.</p>
+  <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;">Atualmente pesquisando <strong>biopolítica, políticas públicas de saúde e transversalidade</strong>.</p>
 
   <h3 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">🌐 Conecte-se comigo</h3>
   <a href="https://www.linkedin.com/in/ryallmeida/" target="_blank">
@@ -47,10 +47,6 @@
 
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=500&color=00FF00&width=435&lines=Bem-vindo+ao+meu+perfil!;Ci%C3%AAncia+Pol%C3%ADtica+%7C+An%C3%A1lise+de+Dados;Explorando+o+mundo+dos+dados!;Transformando+dados+em+conhecimento;Desigualdades+sociais+sob+an%C3%A1lise" alt="Typing Animation" />
-  </div>
-
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ryallmeida&color=00ff00&style=flat-square" alt="Ryan Profile Views"/>
   </div>
 
 </div>
