@@ -2,17 +2,17 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Atualiza todos os dias à meia-noite
-  workflow_dispatch: # Permite rodar manualmente no GitHub Actions
+    - cron: "0 0 * * *" # Executa todos os dias à meia-noite
+  workflow_dispatch: # Permite rodar manualmente
 
 jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout do código
+      - name: Checkout do Código
         uses: actions/checkout@v3
 
-      - name: Gerando cobrinha
+      - name: Gerando Cobrinha
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
