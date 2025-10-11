@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">Olá, mundo. Eu sou Ryan 👾</h1>
-  <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;">💻 Ciência Política | 🔍 Estatística | 📊 Análise de Dados</p>
+  <h1 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">Hello, World. i'm Ryan </h1>
+  <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;"> Ciência Política | Estatística | Análise de Dados</p>
 
   <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;">Explorando dados para revelar padrões ocultos na sociedade.</p>
 
