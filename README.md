@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">Hello, World. i'm Ryan </h1>
-  <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;"> Ciência Política | Estatística | Análise de Dados</p>
+  <h1 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">Hello, World. I'm Ryan </h1>
+  <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;"> Political Science | Statistics | Data Analysis</p>
 
-  <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;">Explorando dados para revelar padrões ocultos na sociedade.</p>
+  <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;">Exploring data to reveal hidden patterns in society.</p>
 
   <div>
     <a href="https://github.com/ryallmeida">
@@ -16,10 +16,10 @@
     <img align="center" alt="Ryan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="filter: drop-shadow(0 0 5px #00FF00);">
   </div>
 
-  <h3 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">💬 Sobre mim</h3>
-  <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;">Atualmente pesquisando <strong>biopolítica, políticas públicas de saúde e transversalidade</strong>.</p>
+  <h3 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">💬 About me</h3>
+  <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;">Currently researching <strong> Biopolitics, Public Health Policies and Antropology</strong>.</p>
 
-  <h3 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">🌐 Conecte-se comigo</h3>
+  <h3 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">🌐 Connect with me</h3>
   <a href="https://www.linkedin.com/in/ryallmeida/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
