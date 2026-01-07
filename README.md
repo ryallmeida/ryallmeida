@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">Hello, World. I'm Ryan </h1>
-  <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;"> Political Science | Statistics | Data Analysis</p>
+  <h1 style="color:#00FF00; text-shadow: 0 0 5px #00FF00;"> Political Science | Statistics | Data Analysis</h1>
 
 <div align="center">
   <h2 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">Technologies of Interest </h2>
