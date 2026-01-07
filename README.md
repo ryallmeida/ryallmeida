@@ -1,9 +1,9 @@
 <div align="center">
   <h1 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">Hello, World. I'm Ryan </h1>
-  <h1 style="color:#00FF00; text-shadow: 0 0 5px #00FF00;"> Political Science | Statistics | Data Analysis</h1>
+  <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;"> Political Science | Statistics | Data Analysis</p>
 
 <div align="center">
-  <h2 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">Technologies of Interest </h2>
+  <h1 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">Technologies of Interest </h1>
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Ryan-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" style="filter: drop-shadow(0 0 5px #00FF00);"/>
