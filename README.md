@@ -11,7 +11,7 @@
     <img align="center" alt="Ryan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="filter: drop-shadow(0 0 5px #00FF00);">
   </div>
 
-  <h2 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;"> About me</h2>
+  <h1 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;"> About me</h1>
   <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;">I'm a Political Science undergraduate at the Federal University of Pernambuco (UFPE) with a growing interest in data analysis, computational methods, and technology applied to public policy and social research. My background combines social sciences with a strong focus on methodology — turning complex realities into structured insights through data and code.
 
 I’m currently exploring R and Python for data processing, statistical modeling, and automation in research workflows. Curious by nature, I believe that understanding the world requires not only ideas but solid methods and reproducible analysis.</strong>.</p>
