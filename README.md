@@ -2,15 +2,6 @@
   <h1 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">Hello, World. I'm Ryan </h1>
   <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;"> Political Science | Statistics | Data Analysis</p>
 
-  <p style="color:#00FF00; text-shadow: 0 0 5px #00FF00;">Exploring data to reveal hidden patterns in society.</p>
-
-  <div>
-    <a href="https://github.com/ryallmeida">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ryallmeida&show_icons=true&theme=tokyonight"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryallmeida&layout=compact&langs_count=6&theme=tokyonight"/>
-    </a>
-  </div>
-
 <div align="center">
   <h2 style="color:#00FF00; text-shadow: 0 0 10px #00FF00;">Technologies of Interest </h2>
 
