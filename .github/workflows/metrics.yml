@@ -1,0 +1,48 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Visual minimalista — fundo transparente, sem bordas
+          config_display: columns
+          config_padding: 0, 8
+          config_animations: no
+
+          # Tema escuro base — vai parecer "sem fundo" no perfil
+          config_template: classic
+          extras_css: |
+            :root {
+              --color-background: transparent;
+              --color-border: #333333;
+              --color-text: #888888;
+              --color-text-secondary: #555555;
+              --color-accent: #CCCCCC;
+            }
+            .header { display: none; }
+            svg { background: transparent; }
+
+          # Plugins ativos
+          base: repositories
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
+          plugin_languages_colors: threshold
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
